@@ -1,0 +1,10 @@
+{
+  "name": "@dev-configs/editorconfig",
+  "version": "0.0.1",
+  "description": "EditorConfig for common used IDEs and editors",
+  "private": true,
+  "author": {
+    "name": "Guan Chao",
+    "email": "levid.gc@outlook.com"
+  }
+}

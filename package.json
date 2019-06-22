@@ -1,0 +1,8 @@
+{
+  "name": "dev-configs",
+  "description": "开发配置汇总",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  }
+}
