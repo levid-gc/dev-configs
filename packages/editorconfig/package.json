@@ -1,6 +1,6 @@
 {
   "name": "@dev-configs/editorconfig",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "EditorConfig for common used IDEs and editors",
   "private": true,
   "author": {
